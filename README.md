@@ -4,7 +4,7 @@ Adaptive Learning Path Generation Using Reinforcement Learning
 
 IT41043 — Intelligent Systems | Faculty of IT, Horizon Campus | Academic Year 2026
 
-Authors: Ravindya Hasangi Bandara Shaw (ITBIN-2313-0108), S. Chamudi Thamasha
+Authors: Ravindya Hasangi Bandara Shaw (ITBIN-2313-0108), S. Chamudi Thamasha (ITBIN-2313-0114)
 
 ## 1. Project Summary
 
