@@ -1,4 +1,4 @@
-# Adaptive Learning Path Generation Using Reinforcement Learning
+# Adaptive Learning Path Generation Using Reinforcement Learning.
 
 ## A Comparative Study with Rule-Based Systems (DQN vs. Prerequisite-Graph Baseline on OULAD)
 
